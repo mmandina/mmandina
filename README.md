@@ -4,7 +4,7 @@ Hi 👋 My name is Maxwell Mandina
 A sailor learning to code
 -------------------------
 
-Currently teaching myself programming after years of sailing deep sea vessels. Currently working as a deck officer aboard the USNS MERCY, a US hospital ship in the pacific ocean.
+Teaching myself programming after years of sailing deep sea vessels. Currently working as a deck officer aboard the USNS MERCY, a US hospital ship in the pacific ocean.
 
 * 🌍  I'm based in New York
 * 🧠  I'm learning MERN stack web development
