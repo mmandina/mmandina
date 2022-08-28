@@ -1,7 +1,7 @@
 Hi 👋 My name is Maxwell Mandina
 ================================
 
-A sailor turned programmer
+A sailor turned SWE
 -------------------------
 
 Taught myself programming after years of sailing deep sea vessels. Most recently worked as a deck officer aboard the USNS MERCY, a US hospital ship in the pacific ocean.
