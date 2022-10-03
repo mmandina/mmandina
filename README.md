@@ -7,7 +7,7 @@ A sailor turned SWE
 Taught myself programming after years of sailing deep sea vessels. Most recently worked as a deck officer aboard the USNS MERCY, a US hospital ship in the pacific ocean.
 
 * 🌍  I'm based in New York
-* 🧠  I'm learning MERN stack web development
+* 🧠  I'm working with MERN stack web development
 * 🤝  I'm open to collaborating on JS based Open Source Projects
 
 ### Skills
