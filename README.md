@@ -3,7 +3,13 @@ Hi 👋 My name is Maxwell Mandina
 
 A sailor turned SWE
 -------------------------
-Self-taught web-developer after years of sailing deep sea vessels. Most recently worked as a deck officer aboard the USNS MERCY, a US hospital ship in the pacific ocean.
+I am a Software Engineer focusing on full-stack Javascript/TypeScript development from the NYC area. I hold a bachelor's degree in Economics and a master's degree in International Transportation Management. I started learning computer science at Rutgers University, but took a break while I was sailing deep sea as a US Merchant Marine Deck Officer. 
+
+I sailed around the world on all kinds of deep-sea sailing vessels, from tiny tugboats to hulking hospital ships! I started self-teaching software engineering after my shifts onboard every night, and eventually came home to NYC to join the great tech community here.
+
+I enjoy surfing and traveling, which led me to build my first full stack web application, findSurf (findsurf.maxwellmandina.com). It's the surf atlas I wish had existed when I was traveling all over the world, surfing wherever I could find a wave! I'm currently looking for tech apprenticeships or junior engineering roles.
+
+Fair winds and following seas!
 
 * 🌍  I'm based in New York
 * 🧠  I'm working with MERN stack web development
