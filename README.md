@@ -7,7 +7,7 @@ I am a Software Engineer focusing on full-stack Javascript/TypeScript developmen
 
 I sailed around the world on all kinds of deep-sea sailing vessels, from tiny tugboats to hulking hospital ships! I started self-teaching software engineering after my shifts onboard every night, and eventually came home to NYC to join the great tech community here.
 
-I enjoy surfing and traveling, which led me to build my first full stack web application, findSurf (findsurf.maxwellmandina.com). It's the surf atlas I wish had existed when I was traveling all over the world, surfing wherever I could find a wave! I'm currently looking for tech apprenticeships or junior engineering roles.
+I enjoy surfing and traveling, which led me to build my first full stack web application, findSurf (findsurf.maxwellmandina.com). It's the surf atlas I wish had existed when I was traveling all over the world, surfing wherever I could find a wave!
 
 Fair winds and following seas!
 
